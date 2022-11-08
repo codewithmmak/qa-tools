@@ -26,3 +26,6 @@ QA Tools is a public repository which house all the tools list preferably Open S
 
 ## Audio/Video Media Player
 * [VLC: VideoLan](https://www.videolan.org/)
+
+## Resources
+* [Contribution guide](https://github.com/codewithmmak/QATools/blob/master/CONTRIBUTING.md)
