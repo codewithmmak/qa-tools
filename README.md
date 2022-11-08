@@ -7,11 +7,8 @@ QA Tools is a public repository which house all the tools list preferably Open S
 
 ## [Text and source code editor](https://github.com/codewithmmak/QATools/blob/master/TextAndSourceCodeEditor.md)
 
+## [Diagram Design](https://github.com/codewithmmak/QATools/blob/master/DiagramDesign.md)
 
-## Database Diagram Design
-* Lucidchart
-* Draw.io
-* [DB Diagram](https://dbdiagram.io/)
 
 ## Cloud Storage
 * Google Drive
