@@ -2,7 +2,9 @@
 
 ## Archiving
 
-* [7-Zip is a free and open-source file archiver, a utility used to place groups of files within compressed containers known as "archives"](https://www.7-zip.org/)
+| Name      | Description |
+| ----------- | ----------- |
+| [7-Zip](https://www.7-zip.org/)   | 7-Zip is a free and open-source file archiver, a utility used to place groups of files within compressed containers known as "archives" |
 
 ## Audio/Video Media Player
 
