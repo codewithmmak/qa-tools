@@ -1,6 +1,9 @@
 # Writing Assistance
 
 ## Writing Assitance
-* [Wordtune: Personal writing assitance & editor](https://www.wordtune.com/)
-* [Grammerly: Online Writing Assitance](https://www.grammarly.com/)
-* [Compose AI: AI-powered Writing Tool](https://www.compose.ai/)
+
+| Name      | Description |
+| ----------- | ----------- |
+| [Wordtune](https://www.wordtune.com/)      | Personal writing assitance & editor       |
+| [Grammerly](https://www.grammarly.com/)      | Online Writing Assitance       |
+| [Compose AI](https://www.compose.ai/)      | AI-powered Writing Tool       |
