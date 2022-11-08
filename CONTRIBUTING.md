@@ -52,7 +52,7 @@ Example:
 ```
 docs: added API automation tool list
 
-Added low code added API automation tool list
+Added low code API automation tool list
 
 Additional info goes here...
 ```
