@@ -26,9 +26,6 @@ QA Tools is a public repository which house all the tools list preferably Open S
 * [7-Zip is a free and open-source file archiver, a utility used to place groups of files within compressed containers known as "archives"](https://www.7-zip.org/)
 
 
-## Audio/Video Media Player
-* [VLC: VideoLan](https://www.videolan.org/)
-
 ## Notification
 * Press [like](https://github.com/codewithmmak/QATools/stargazers) to support us and [watch](https://github.com/codewithmmak/QATools/subscription) repository to receive updates.
 
