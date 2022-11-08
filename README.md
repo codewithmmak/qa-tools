@@ -13,12 +13,6 @@ QA Tools is a public repository which house all the tools list preferably Open S
 
 * [Writing Assistance ](https://github.com/codewithmmak/QATools/blob/master/WritingAssistance.md)
 
-## Cloud Storage
-* Google Drive
-* Microsoft OneDrive
-* Dropbox
-* Box
-
 ## MindMap
 * [XMind](https://xmind.app/)
 
