@@ -9,6 +9,7 @@ QA Tools is a public repository which house all the tools list preferably Open S
 
 ## [Diagram Design](https://github.com/codewithmmak/QATools/blob/master/DiagramDesign.md)
 
+## [Writing Assistance ](https://github.com/codewithmmak/QATools/blob/master/WritingAssistance.md)
 
 ## Cloud Storage
 * Google Drive
@@ -22,10 +23,6 @@ QA Tools is a public repository which house all the tools list preferably Open S
 ## Archiving
 * [7-Zip is a free and open-source file archiver, a utility used to place groups of files within compressed containers known as "archives"](https://www.7-zip.org/)
 
-## Writing Assitance
-* [Wordtune: Personal writing assitance & editor](https://www.wordtune.com/)
-* [Grammerly: Online Writing Assitance](https://www.grammarly.com/)
-* [Compose AI: AI-powered Writing Tool](https://www.compose.ai/)
 
 ## Audio/Video Media Player
 * [VLC: VideoLan](https://www.videolan.org/)
