@@ -8,7 +8,9 @@
 
 ## Audio/Video Media Player
 
-* [VLC: VideoLan](https://www.videolan.org/)
+| Name      | Description |
+| ----------- | ----------- |
+| [VLC](https://www.videolan.org/)   | VideoLan |
 
 ## Cloud Storage
 
@@ -27,7 +29,9 @@
 
 ## MindMap
 
-* [XMind](https://xmind.app/)
+| Name      | Description |
+| ----------- | ----------- |
+| [XMind](https://xmind.app/)   |  |
 
 ## Writing Assitance
 
