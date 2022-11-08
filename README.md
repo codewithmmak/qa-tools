@@ -5,11 +5,8 @@ QA Tools is a public repository which house all the tools list preferably Open S
 
 ## [Database Testing](https://github.com/codewithmmak/QATools/blob/master/DatabaseTesting.md)
 
-## Text and source code editor
-* [Notepad++ is a text and source code editor for use with Microsoft Windows.](https://notepad-plus-plus.org/downloads/)
-* [Visual Studio Code, also commonly referred to as VS Code, is a source-code editor for Windows, Linux and macOS.](https://code.visualstudio.com/)
-* [Sublime Text is a shareware cross-platform source code editor originally created by Jon Skinner.](https://www.sublimetext.com/)
-* [Brackets is a source code editor with a primary focus on web development.](https://brackets.io/)
+## [Text and source code editor](https://github.com/codewithmmak/QATools/blob/master/TextAndSourceCodeEditor.md)
+
 
 ## Database Diagram Design
 * Lucidchart
