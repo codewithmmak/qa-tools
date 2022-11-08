@@ -14,10 +14,13 @@
 
 ## Cloud Storage
 
-* Google Drive
-* Microsoft OneDrive
-* Dropbox
-* Box
+| Name      | Description |
+| ----------- | ----------- |
+| [Box](https://www.box.com/home)   | Accelerate your move to the Content Cloud with Box Shuttle, our market-leading content migration tool. It's fast, easy to use, and cost-effective. |
+| [Dropbox](https://www.dropbox.com/)   | Dropbox brings everything—traditional files, cloud content, and web shortcuts—together in one place |
+| [Google Drive](https://www.google.com/intl/en_in/drive/)   | Drive can provide encrypted and secure access to your files. Files shared with you can be proactively scanned and removed when malware, spam, ransomware, or phishing is detected. And Drive is cloud-native, which eliminates the need for local files and can minimize risk to your devices. |
+| [Microsoft OneDrive](https://www.microsoft.com/en-in/microsoft-365/onedrive/online-cloud-storage)   | Microsoft OneDrive (formerly SkyDrive) is a file hosting service operated by Microsoft. |
+
 
 ## Diagram Design
 
