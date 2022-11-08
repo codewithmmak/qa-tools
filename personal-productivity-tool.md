@@ -34,7 +34,7 @@
 
 | Name      | Description |
 | ----------- | ----------- |
-| [XMind](https://xmind.app/)   |  |
+| [XMind](https://xmind.app/)   | Xmind is a full-featured mind mapping and brainstorming tool that helps to unleash creativity, capture inspiration, and boost productivity. |
 
 ## Writing Assitance
 
