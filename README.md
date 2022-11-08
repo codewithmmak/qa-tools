@@ -1,5 +1,5 @@
 # QATools
-QA Tools is a public repository which house all the tools list preferably Open Source and Free to use.
+QA Tools is a public repository which house all the tools list preferably Open Source and Free to use which will increase the productivity of QA in performing day to day activities.
 
 
 ## Text and source code editor
