@@ -3,11 +3,13 @@ QA Tools is a public repository which house all the tools list preferably Open S
 
 * [Accessibility Testing](https://github.com/codewithmmak/QATools/blob/master/AccessibilityTesting.md)
 
+* [Audio/Video Media Player](https://github.com/codewithmmak/qa-tools/blob/master/audio-video-media-player.md)
+
 * [Database Testing](https://github.com/codewithmmak/QATools/blob/master/DatabaseTesting.md)
 
-* [Text and source code editor](https://github.com/codewithmmak/QATools/blob/master/TextAndSourceCodeEditor.md)
-
 * [Diagram Design](https://github.com/codewithmmak/QATools/blob/master/DiagramDesign.md)
+
+* [Text and source code editor](https://github.com/codewithmmak/QATools/blob/master/TextAndSourceCodeEditor.md)
 
 * [Writing Assistance ](https://github.com/codewithmmak/QATools/blob/master/WritingAssistance.md)
 
