@@ -1,14 +1,16 @@
 # Contributing
 
 - [How to Contribute](#how-to-contribute)
-  * [Getting Code](#getting-code)
+  * [Getting Started](#getting-started)
   * [Code reviews](#code-reviews)
   * [Commit Messages](#commit-messages)
 
 
 ## How to Contribute
 
-### Getting Code
+### Getting Started
+* Before you make or suggest any tool please make sure you have searched the tool.
+* Check your spelling and grammar.
 
 Clone this repository
 
