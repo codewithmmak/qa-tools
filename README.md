@@ -1,4 +1,4 @@
-# QATools
+# QA Tools
 QA Tools is a public repository which house all the tools list preferably Open Source and Free to use which will increase the productivity of QA in performing day to day activities.
 
 * [Accessibility Testing](https://github.com/codewithmmak/QATools/blob/master/AccessibilityTesting.md)
