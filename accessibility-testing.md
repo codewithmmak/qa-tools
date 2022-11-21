@@ -3,8 +3,8 @@
 ## Accessibility Testing
 | Name      | Description |
 | ----------- | ----------- |
-| [Accessibility Insights](https://accessibilityinsights.io/downloads/)      | Accessibility Insights for Windows helps developers find and fix accessibility issues      |
-| [axe DevTools: A Google Chrome Extension](https://chrome.google.com/webstore/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd)      |       |
+| [Accessibility Insights](https://accessibilityinsights.io/downloads/)| Accessibility Insights for Windows helps developers find and fix accessibility issues|
+| [axe DevTools: A Google Chrome Extension](https://chrome.google.com/webstore/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd)| Web Accessibility Testing|
 
 
 ## UI/UX Testing
